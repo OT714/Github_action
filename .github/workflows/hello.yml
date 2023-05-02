@@ -11,4 +11,5 @@ jobs:
         with:
           node-version: '14'
       - run : echo Hello Omerlab
+      - run : cat /etc/os*
    
